@@ -32,7 +32,7 @@ localhost:8080/spring-rest-client/uptake/delete/{param id}
 localhost:8080/spring-rest-client/uptake/delete/{param id}
 
 --------------------------------------
-vikramav@gmail.com
+
 
 
 
