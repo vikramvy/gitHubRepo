@@ -1,7 +1,9 @@
 # gitHubRepo
 sampleExercise
 This is Rest Client and Provider to show person information and family groups
-This project uses Spring MVC client to handle information via REST services
+This project uses Spring MVC client to handle information via REST services; it uses RESTTemplate to handle Restservice responses; the provider application returns response in XML.
+
+If you want to Test provider we recommend to use any HTTP REST CLient utility or Postman.
 
 Steps:
 Download the two applications Client and provider
